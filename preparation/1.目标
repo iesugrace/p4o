@@ -1,0 +1,22 @@
+1. 認識Python
+2. Python 與運維
+3. 環境部署：
+    1. 安裝Linux 系統
+    2. 通過conda 安裝交互式Python 環境IPython
+    3. 使用conda 或者pip 安裝Python 相關軟件包
+4. 第一个实用的Python 程序
+
+1. 交互式Python 開發環境 IPython
+2. Linux 精要（進程，用戶，權限，文件系統，命令行參數，命令返回值，標準文件流）
+4. Python 代碼排錯
+3. Git
+5. Python 代碼測試
+
+
+運維相關主題：
+
+1. 批量化
+2. 自動化
+3. 環境部署
+4. 配置管理/遠程執行
+5. 監控告警

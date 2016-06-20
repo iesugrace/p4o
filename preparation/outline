@@ -1,0 +1,45 @@
+環境配置：
+
+標準環境配置： Linux + Vim + IPython
+1. Linux 系統首選Kubuntu，學生也可根據喜好自由選擇
+2. 代碼編輯器首選Vim，學生也可根據喜好自由選擇
+3. Python 環境首選IPython，學生也可根據喜好自由選擇
+
+
+大綱：
+
+一、准备
+
+1. 認識Python
+2. Python 與運維
+3. 環境部署：
+    1. 安裝Linux 系統
+    2. 通過conda 安裝交互式Python 環境IPython
+    3. 使用conda 或者pip 安裝Python 相關軟件包
+4. hello.py
+5. 从一个实用的程序开始
+
+
+二、Python 基础
+
+1. 类型与操作
+2. 语句与语法
+3. 函数与生成器
+4. 模块与包
+5. 类与OOP
+6. 异常
+
+
+三、Python 进阶
+
+1. 系统编程
+2. 网络编程
+3. 数据库编程
+
+
+四、应用案例
+
+1. Python 与Zabbix
+2. Python 与SaltStack
+3. Python 与Ansible
+4. Python 与数据分析
